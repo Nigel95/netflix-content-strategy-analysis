@@ -6,6 +6,8 @@ Ce projet propose un **dashboard interactif** construit à partir du catalogue N
 
 Le dashboard intègre des filtres dynamiques (**Country**, **Release Year**, **Type**) permettant une exploration personnalisée des données.
 
+![Aperçu du dashboard](images/dashboard_preview.png)
+
 ---
 
 ## 📊 Aperçu des indicateurs clés (KPIs)

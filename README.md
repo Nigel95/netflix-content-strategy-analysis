@@ -1,4 +1,4 @@
-# 🎬 Netflix Dashboard – Analyse & Insights
+# 🎬 Netflix Dashboard : Analyse & Insights
 
 ## 📌 Contexte du projet
 

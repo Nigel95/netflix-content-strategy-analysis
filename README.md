@@ -52,7 +52,7 @@ Le dashboard intègre des filtres dynamiques (**Country**, **Release Year**, **T
 ---
 
 ## 🛠️ Outils utilisés
-- Visualisation : *(Power BI / Tableau — à préciser selon l'outil réellement utilisé)*
+- Visualisation : *(Power BI / DAX/ PowerQuery)*
 - Source de données : Netflix Titles Dataset
 
 ---
